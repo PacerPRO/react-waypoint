@@ -6,6 +6,4 @@
 CHANGELOG.md
 karma.conf.js
 spec
-src
 tests.webpack.js
-webpack.conf.js
